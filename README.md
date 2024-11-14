@@ -7,7 +7,7 @@
 - 📫 How to reach me Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/sithandilizwe-malunga/) or via GitHub!
 - ⚡ Fun fact: I have a background in mechanical engineering and am passionate about combining structured problem-solving with creative data storytelling to bring data to life.
 ---
-##**Connect with me:**
+**Connect with me:**
 
 
 ---
