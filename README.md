@@ -19,7 +19,7 @@
 ---
 **Certifications**<br/>
 
-- Microsoft Certified Power BI Data Analyst<br/>
+- Microsoft Certified Power BI Data Analyst (Credential ID: 807E4BC56B0BBDB5 , Certification number: F7483C-85E546)<br/>
 
 - Tableau Certified Data Analyst<br/>
 
